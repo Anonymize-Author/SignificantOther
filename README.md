@@ -1,9 +1,9 @@
 # SignificantOther
 
-
 <p align="center">
-    <img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen2-VL/qwen2VL_logo.png" width="400"/>
-<p>
+    <img src="./assets/SO_01.png" width="500px"/>
+</p>
+
 
 ## News
 * 2024.10.28 The model weights have been open at [🤗SignificantOther-7B model](https://huggingface.co/spaces/Ice-lemon/SignificantOtherDemo/tree/main) . The model was trained on both dfew and ferv39k.
