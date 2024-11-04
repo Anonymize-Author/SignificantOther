@@ -1,8 +1,7 @@
 # SignificantOther
 
 # News
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/fastai_course/blob/master/bear_classifier.ipynb)   
-2024.10.28 The model weights have been open at https://huggingface.co/spaces/Ice-lemon/SignificantOtherDemo/tree/main. The model was trained on both dfew and ferv39k.
+[![Open In Huggingface]()]([https://colab.research.google.com/drive/1DACpocPh9kMVeify-2_fuooOS3RjVgNc](https://huggingface.co/spaces/Ice-lemon/SignificantOtherDemo/tree/main)) 2024.10.28 The model weights have been open at https://huggingface.co/spaces/Ice-lemon/SignificantOtherDemo/tree/main. The model was trained on both dfew and ferv39k.
 
 2024.10.30 The Dataset will be open at https://huggingface.co/datasets/Ice-lemon/SOdataset/tree/main. The dataset will be made publicly available after the paper is accepted.
 
